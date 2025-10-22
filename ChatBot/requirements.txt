@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-community
+langchain-core
+python-telegram-bot
+streamlit
+supabase
+python-dotenv
+tavily-python # Opcional, para b´usqueda
+pandas
